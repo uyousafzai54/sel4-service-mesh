@@ -47,7 +47,7 @@ Another idea was to have a very lightweight GDB type program that could inspect 
 I think this is doable and would barely impact performance. 
 
 
-Credits: Simhon Chourasia (s2choura). We were the only ones that discussed this. I brought the idea of a demon L4 microkernel to him.
+Credits: [redacted author]. We were the only ones that discussed this. I brought the idea of a demon L4 microkernel to them.
 
 I'm currently trying to create a very fast and secure Layer 0 and Layer 1 for an end to end service mesh. 
 
