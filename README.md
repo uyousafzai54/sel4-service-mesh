@@ -2,4 +2,4 @@
 Service mesh for sel4 (hopefully)
 
 
-Ideas came from Carta, Level, Radiation Therapy, TENET, RCAF SecOps training and probably other things. 
+Ideas came from my internship at Apple 
